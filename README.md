@@ -51,9 +51,8 @@ cd <NOME_DO_PROJETO>
 npm install
 ```
 3️⃣ Configurar MongoDB
-```
+
 Rodando MongoDB como Replica Set
-```
 
 O Prisma precisa do MongoDB como replica set para transações. Faça o seguinte:
 
