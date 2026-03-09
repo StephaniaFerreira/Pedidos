@@ -40,13 +40,20 @@ Prisma
 JavaScript (ES6+)
 ```
 🔹 Como Rodar a Aplicação
+
 1️⃣ Clonar o projeto
+```
 git clone <URL_DO_REPOSITORIO>
 cd <NOME_DO_PROJETO>
+```
 2️⃣ Instalar dependências
+```
 npm install
+```
 3️⃣ Configurar MongoDB
+```
 Rodando MongoDB como Replica Set
+```
 
 O Prisma precisa do MongoDB como replica set para transações. Faça o seguinte:
 
