@@ -1,4 +1,5 @@
 📦 Web API com Node.js, Express, MongoDB e Prisma
+
 🔹 Visão Geral
 
 Este projeto é uma Web API RESTful feita com Node.js e Express, usando MongoDB como banco de dados e Prisma como ORM.
@@ -27,7 +28,7 @@ Use os mappers parseOrder e formatOrderResponse para enviar dados consistentes e
 └── package.json        # Dependências e scripts do projeto
 ```
 🔹 Tecnologias
-
+```
 Node.js
 
 Express
@@ -37,7 +38,7 @@ MongoDB
 Prisma
 
 JavaScript (ES6+)
-
+```
 🔹 Como Rodar a Aplicação
 1️⃣ Clonar o projeto
 git clone <URL_DO_REPOSITORIO>
